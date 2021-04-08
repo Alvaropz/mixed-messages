@@ -15,7 +15,8 @@ This app generates random messages every time the user launches the program. The
 Project is created with:
 * Visual Studio Code: 1.55.0
 * Git: 2.28.0
-* JavaScvript for Visual Studio Code
+* GitHub
+* JavaScript for Visual Studio Code
 
 ## Setup:
 
@@ -34,3 +35,4 @@ toine de Saint-Exupery
 ## Citations:
 
 [dzone - Inspirational Quotes](https://dzone.com/articles/best-programming-jokes-amp-quotes)
+[Codecademy](https://www.codecademy.com)
